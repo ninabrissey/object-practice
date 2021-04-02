@@ -18,5 +18,8 @@ var customer = {
   lastName: 'Brissey',
   gender: 'female',
   age: 30,
-  shoeSize: 7.5
+  shoeSize: 7.5,
+  shoeSearch: ['Asics', 'Nike', 'Adidas', 'Saucony']
 }
+
+customer.firstName
