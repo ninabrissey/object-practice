@@ -21,5 +21,3 @@ var customer = {
   shoeSize: 7.5,
   shoeSearch: ['Asics', 'Nike', 'Adidas', 'Saucony']
 }
-
-customer.firstName
